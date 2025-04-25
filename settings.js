@@ -7,20 +7,20 @@
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
-global.ownernomer = "255756530143"
-global.ownername = "HANSTZ"
+global.ownernomer = "+919207278115"
+global.ownername = "ᴊᴜɴᴀɪᴅ"
 global.ytname = "HANSTZ-TECH"
 global.socialm = "GitHub: Mrhanstz"
 global.location = "AFRICA, TANZANIA, DODOMA"
-global.ownernumber = '255756530143'  //creator number
-global.ownername = 'HANSTZ' //owner name
-global.botname = 'HANS-XMD' //name of the bot
+global.ownernumber = '+919207278115'  //creator number
+global.ownername = 'ᴊᴜɴᴀɪᴅ' //owner name
+global.botname = 'ᴊᴜɴᴀɪᴅ-XMD' //name of the bot
 //sticker details
 global.packname = 'Sticker By'
 global.author = 'HANS-XMD'
 //console view/theme
 global.themeemoji = '⚠️'
-global.wm = "HANS BOT"
+global.wm = "ᴊᴀꜱ BOT"
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
 //custom prefix
