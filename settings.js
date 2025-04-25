@@ -1,6 +1,6 @@
 //base by HANSTZ
 //YouTube: @HANSTZ-TECH
-//Whatsapp https://wa.me/255756530143
+//Whatsapp https://wa.me/+919207278115
 //GitHub: @Mrhanstz
 //WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
 //want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
